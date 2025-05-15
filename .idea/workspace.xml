@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="11 May 2025 - printing a 5th table using printf statement , without using loops">
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/project/task/$Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/$Lab002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/project/task/ABC123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/ABC123.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/project/task/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/Helloworld.java" afterDir="false" />
@@ -187,13 +188,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747209124683</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte">
+      <option name="closed" value="true" />
+      <created>1747301144582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747301144582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte">
+      <option name="closed" value="true" />
+      <created>1747301844841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747301844841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 May 2025 - Lab session of keywords identifiers concepts , exception,naming conventions($,_), case-sensitive etc.." />
     <MESSAGE value="11 May 2025 - printing a 5th table using printf statement , without using loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 May 2025 - printing a 5th table using printf statement , without using loops" />
+    <MESSAGE value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values" />
+    <MESSAGE value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

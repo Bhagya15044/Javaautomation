@@ -1,3 +1,5 @@
+package com.project.task1;
+
 public class Lab006_num_printing
 {
     public static void main(String[] args)
