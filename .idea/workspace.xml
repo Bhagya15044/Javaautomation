@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte">
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="printf statement task">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Lab005_common_math_exception.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Lab005_common_math_exception.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/$Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/$Lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/ABC123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/ABC123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/Helloworld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/Jhon_123_pot_hut_ink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/Jhon_123_pot_hut_ink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/KatUIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/KatUIN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/Lab004_common_math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/Lab004_common_math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/Lab005_common_math_exception.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/Lab006_num_printing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab006_num_printing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/_ABC_abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/_ABC_abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/task/_Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task/_Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/$Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/$Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/ABC123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/ABC123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/Helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/Jhon_123_pot_hut_ink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/Jhon_123_pot_hut_ink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/KatUIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/KatUIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/Lab004_common_math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/Lab004_common_math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/Lab005_common_math_exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/Lab005_common_math_exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/_ABC_abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/_ABC_abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task/_Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task_java_basics/_Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Interview_Qna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Interview_Qna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Interview_Qna2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Interview_Qna2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab006_num_printing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Lab006_num_printing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab007_variable_declaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Lab007_variable_declaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab008_boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Lab008_boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab009_Numeric_data_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Lab009_Numeric_data_type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab10_byte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Lab10_byte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task1/Lab11_printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task1_datatypes/Lab11_printf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,39 +61,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004_common_math.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005_common_math_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006_num_printing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab008_boolean.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kisho/IdeaProjects/Java automation/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Helloworld.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab004_common_math.executor": "Run",
+    "Application.Lab005_common_math_exception.executor": "Run",
+    "Application.Lab006_num_printing.executor": "Run",
+    "Application.Lab008_boolean.executor": "Run",
+    "Application.Lab11_printf.executor": "Run",
+    "Application.Lab13_Arithemetic_operators.executor": "Run",
+    "Application.Lab14_unary_operator.executor": "Run",
+    "Application.Lab15_Modulus_operator.executor": "Run",
+    "Application.Lab16_Realtional_operator.executor": "Run",
+    "Application.Lab17_Logical_operator.executor": "Run",
+    "Application.Lab19_interview_concate_plus.executor": "Debug",
+    "Application.Lab20_Modulus.executor": "Run",
+    "Application.Lab21_Equals.executor": "Run",
+    "Application.Lab22_Interview_Qna.executor": "Run",
+    "Application.Lab23_OR_AND_gate.executor": "Run",
+    "Application.Lab24_Interview_Qna.executor": "Run",
+    "Application.Lab25_All_operators.executor": "Run",
+    "Application.Lab26_compound_assignment_operator.executor": "Run",
+    "Application.Lab27_new_operator.executor": "Run",
+    "Application.Lab28_instance_of_operator.executor": "Run",
+    "Application.Lab29_Interview_Qna.executor": "Run",
+    "Application.Lab30_interview_Qna.executor": "Run",
+    "Application.Lab31_interview_char_int.executor": "Run",
+    "Application.Lab32_interview_Qna.executor": "Debug",
+    "Application.Lab33_interview_Short_char.executor": "Run",
+    "Application.Lab35_Typecasting_widening_explicit.executor": "Run",
+    "Application.Lab37_long_short.executor": "Run",
+    "Application.Lab38_Typecasting_Used.executor": "Run",
+    "Application.Lab39_Ternary_operator.executor": "Run",
+    "Application.Lab40_Ternary_operator_p1.executor": "Run",
+    "Application.Lab41_Nested_ternary_operator.executor": "Run",
+    "Application.Lab42_inc_dec_operator.executor": "Run",
+    "Application.Lab42_interview_max_Two_numbers.executor": "Run",
+    "Application.Lab43_increment_operator.executor": "Run",
+    "Application.Lab43_task_even_odd.executor": "Run",
+    "Application.Lab44_Post_decrement_operator.executor": "Run",
+    "Application.Lab44_Post_increment_operator.executor": "Run",
+    "Application.Lab44_task_max_three_numbers.executor": "Run",
+    "Application.Lab45_increment_operator.executor": "Run",
+    "Application.Lab46_post_inc_operator.executor": "Debug",
+    "Application.Lab47_inc_operator_advanced_interview_Qna.executor": "Run",
+    "Application.Lab48_inc_operator_interview_Qna.executor": "Run",
+    "Application.Lab49_inc_operator_interview_Qna.executor": "Run",
+    "Application.Lab50_post_decrement_operator.executor": "Run",
+    "Application.Lab51_post_decrement_operator.executor": "Run",
+    "Application.Lab52_if_condition.executor": "Run",
+    "Application.Lab52_if_else_condition.executor": "Run",
+    "Application.Lab54_if_else_condition1.executor": "Run",
+    "Application.Lab55_if_else_scanner.executor": "Run",
+    "Application.Lab56_interview_question.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/kisho/IdeaProjects/Java automation/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "two.files.diff.last.used.folder": "C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.project.task1" />
       <recent name="com.project.task" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.task4_ternary_operator" />
+      <recent name="com.project.task3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Lab008_boolean">
-    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task.Helloworld" />
+  <component name="RunManager" selected="Application.Lab56_interview_question">
+    <configuration name="Lab51_post_decrement_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task5_increment_decrement_operator.Lab51_post_decrement_operator" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task.*" />
+          <option name="PATTERN" value="com.project.task5_increment_decrement_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task.Lab001" />
+    <configuration name="Lab52_if_else_condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab52_if_else_condition" />
       <module name="Java automation" />
+      <option name="PROGRAM_PARAMETERS" value="21" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task.*" />
+          <option name="PATTERN" value="com.project.task6_if_condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004_common_math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task.Lab004_common_math" />
+    <configuration name="Lab54_if_else_condition1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab54_if_else_condition1" />
       <module name="Java automation" />
+      <option name="PROGRAM_PARAMETERS" value="24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task.*" />
+          <option name="PATTERN" value="com.project.task6_if_condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,19 +179,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006_num_printing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task1.Lab006_num_printing" />
+    <configuration name="Lab55_if_else_scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab55_if_else_scanner" />
       <module name="Java automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.task6_if_condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab008_boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task1.Lab008_boolean" />
+    <configuration name="Lab56_interview_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab56_interview_question" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task1.*" />
+          <option name="PATTERN" value="com.project.task6_if_condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,18 +207,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab006_num_printing" />
-      <item itemvalue="Application.Lab008_boolean" />
-      <item itemvalue="Application.Helloworld" />
-      <item itemvalue="Application.Lab001" />
-      <item itemvalue="Application.Lab004_common_math" />
+      <item itemvalue="Application.Lab56_interview_question" />
+      <item itemvalue="Application.Lab55_if_else_scanner" />
+      <item itemvalue="Application.Lab54_if_else_condition1" />
+      <item itemvalue="Application.Lab51_post_decrement_operator" />
+      <item itemvalue="Application.Lab52_if_else_condition" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab008_boolean" />
-        <item itemvalue="Application.Lab006_num_printing" />
-        <item itemvalue="Application.Lab004_common_math" />
-        <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Lab56_interview_question" />
+        <item itemvalue="Application.Lab55_if_else_scanner" />
+        <item itemvalue="Application.Lab54_if_else_condition1" />
+        <item itemvalue="Application.Lab52_if_else_condition" />
+        <item itemvalue="Application.Lab51_post_decrement_operator" />
       </list>
     </recent_temporary>
   </component>
@@ -204,15 +271,52 @@
       <option name="project" value="LOCAL" />
       <updated>1747301844841</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte">
+      <option name="closed" value="true" />
+      <created>1747302151608</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747302151608</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1747302310159</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747302310159</updated>
+    </task>
+    <task id="LOCAL-00008" summary="printf statement task">
+      <option name="closed" value="true" />
+      <created>1747633831031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747633831031</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 May 2025 - Lab session of keywords identifiers concepts , exception,naming conventions($,_), case-sensitive etc.." />
     <MESSAGE value="11 May 2025 - printing a 5th table using printf statement , without using loops" />
     <MESSAGE value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values" />
     <MESSAGE value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte" />
+    <MESSAGE value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="printf statement task" />
+    <option name="LAST_COMMIT_MESSAGE" value="printf statement task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,7 +326,17 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/project/task/com/project/task5_increment_decrement_operator/Lab47_inc_operator_advanced_interview_Qna.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_automation$Lab11_printf.ic" NAME="Lab11_printf Coverage Results" MODIFIED="1747303409978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.project.task1.*</FILTER>
+    </SUITE>
   </component>
 </project>
