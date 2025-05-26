@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;src/com/project/task/com/project/task1_datatypes/Lab11_printf.java">
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="21st may triangle task">
+      <change afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task8_for_loop/Lab73_for_loop_var_name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/task/com/project/task5_increment_decrement_operator/Lab49_inc_operator_interview_Qna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/task/com/project/task5_increment_decrement_operator/Lab49_inc_operator_interview_Qna.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +61,7 @@
     "Application.Lab16_Realtional_operator.executor": "Run",
     "Application.Lab17_Logical_operator.executor": "Run",
     "Application.Lab19_interview_concate_plus.executor": "Debug",
+    "Application.Lab1_switch_leap_year_month.executor": "Run",
     "Application.Lab20_Modulus.executor": "Run",
     "Application.Lab21_Equals.executor": "Run",
     "Application.Lab22_Interview_Qna.executor": "Run",
@@ -67,6 +72,7 @@
     "Application.Lab27_new_operator.executor": "Run",
     "Application.Lab28_instance_of_operator.executor": "Run",
     "Application.Lab29_Interview_Qna.executor": "Run",
+    "Application.Lab2_kids_grade_switch_statement.executor": "Run",
     "Application.Lab30_interview_Qna.executor": "Run",
     "Application.Lab31_interview_char_int.executor": "Run",
     "Application.Lab32_interview_Qna.executor": "Debug",
@@ -75,6 +81,7 @@
     "Application.Lab37_long_short.executor": "Run",
     "Application.Lab38_Typecasting_Used.executor": "Run",
     "Application.Lab39_Ternary_operator.executor": "Run",
+    "Application.Lab3_factorial.executor": "Run",
     "Application.Lab40_Ternary_operator_p1.executor": "Run",
     "Application.Lab41_Nested_ternary_operator.executor": "Run",
     "Application.Lab42_inc_dec_operator.executor": "Run",
@@ -97,6 +104,31 @@
     "Application.Lab55_if_else_scanner.executor": "Run",
     "Application.Lab56_interview_question.executor": "Run",
     "Application.Lab57_task_triangle.executor": "Run",
+    "Application.Lab58_Switch_statement.executor": "Run",
+    "Application.Lab58_task_inc_operator.executor": "Debug",
+    "Application.Lab59_switch_without_break.executor": "Run",
+    "Application.Lab60_switch_interview.executor": "Run",
+    "Application.Lab61_switch_automation.executor": "Run",
+    "Application.Lab63_interview_switch_statement.executor": "Run",
+    "Application.Lab64_interview_switch_statement.executor": "Run",
+    "Application.Lab65_interview_switch_statement.executor": "Run",
+    "Application.Lab66_interview_switch_statement.executor": "Run",
+    "Application.Lab68_JDK13.executor": "Run",
+    "Application.Lab69_interview_switch_statement.executor": "Run",
+    "Application.Lab70_interview_switch_statement.executor": "Run",
+    "Application.Lab71_for_loop.executor": "Run",
+    "Application.Lab76_for_loop_no_condition.executor": "Run",
+    "Application.Lab77_for_loop_if_else_condition.executor": "Run",
+    "Application.Lab78_interview_question_without_updation.executor": "Run",
+    "Application.Lab80_for_loop_float_long.executor": "Run",
+    "Application.Lab81_for_loop_decrement_updation.executor": "Run",
+    "Application.Lab82_for_loop_intilazation_outside.executor": "Run",
+    "Application.Lab83_for_loop_greater_vs_equal.executor": "Run",
+    "Application.Lab84_for_loop_top_even_odd_numbers.executor": "Run",
+    "Application.Lab85_for_loop_using_break.executor": "Run",
+    "Application.Lab86_for_loop_continue.executor": "Run",
+    "Application.Lab87_for_loop_even_using_continue.executor": "Run",
+    "Application.Lab88_switch_leap_year_month.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -115,18 +147,18 @@
       <recent name="com.project.task" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.coding_challenge_tasks" />
       <recent name="com.project.task4_ternary_operator" />
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab57_task_triangle">
-    <configuration name="Lab52_if_else_condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab52_if_else_condition" />
+  <component name="RunManager" selected="Application.Lab3_factorial">
+    <configuration name="Lab1_switch_leap_year_month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab1_switch_leap_year_month" />
       <module name="Java automation" />
-      <option name="PROGRAM_PARAMETERS" value="21" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task6_if_condition.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,13 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab54_if_else_condition1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab54_if_else_condition1" />
+    <configuration name="Lab2_kids_grade_switch_statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab2_kids_grade_switch_statement" />
       <module name="Java automation" />
-      <option name="PROGRAM_PARAMETERS" value="24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task6_if_condition.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab55_if_else_scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab55_if_else_scanner" />
+    <configuration name="Lab3_factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab3_factorial" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task6_if_condition.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab56_interview_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab56_interview_question" />
+    <configuration name="Lab87_for_loop_even_using_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task8_for_loop.Lab87_for_loop_even_using_continue" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task6_if_condition.*" />
+          <option name="PATTERN" value="com.project.task8_for_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab57_task_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task6_if_condition.Lab57_task_triangle" />
+    <configuration name="Lab88_switch_leap_year_month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task7_switch_statement.Lab88_switch_leap_year_month" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task6_if_condition.*" />
+          <option name="PATTERN" value="com.project.task7_switch_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +220,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab57_task_triangle" />
-      <item itemvalue="Application.Lab56_interview_question" />
-      <item itemvalue="Application.Lab55_if_else_scanner" />
-      <item itemvalue="Application.Lab54_if_else_condition1" />
-      <item itemvalue="Application.Lab52_if_else_condition" />
+      <item itemvalue="Application.Lab1_switch_leap_year_month" />
+      <item itemvalue="Application.Lab2_kids_grade_switch_statement" />
+      <item itemvalue="Application.Lab3_factorial" />
+      <item itemvalue="Application.Lab88_switch_leap_year_month" />
+      <item itemvalue="Application.Lab87_for_loop_even_using_continue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab57_task_triangle" />
-        <item itemvalue="Application.Lab56_interview_question" />
-        <item itemvalue="Application.Lab55_if_else_scanner" />
-        <item itemvalue="Application.Lab54_if_else_condition1" />
-        <item itemvalue="Application.Lab52_if_else_condition" />
+        <item itemvalue="Application.Lab3_factorial" />
+        <item itemvalue="Application.Lab1_switch_leap_year_month" />
+        <item itemvalue="Application.Lab2_kids_grade_switch_statement" />
+        <item itemvalue="Application.Lab88_switch_leap_year_month" />
+        <item itemvalue="Application.Lab87_for_loop_even_using_continue" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747914598722</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="21st may triangle task">
+      <option name="closed" value="true" />
+      <created>1747980401191</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747980401191</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +355,8 @@
     <MESSAGE value="printf statement task" />
     <MESSAGE value="17&amp;18 may lab sessions typecasting, operators, tasks, conditional statements" />
     <MESSAGE value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;src/com/project/task/com/project/task1_datatypes/Lab11_printf.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;src/com/project/task/com/project/task1_datatypes/Lab11_printf.java" />
+    <MESSAGE value="21st may triangle task" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st may triangle task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
