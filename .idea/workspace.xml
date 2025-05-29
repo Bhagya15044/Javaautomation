@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="24th may - switch case, for loop , coding challenges for switch statement , for loop">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="25th may - While loop , DoWhile loop, Function(user defined as well)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,110 +45,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004_common_math.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005_common_math_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006_num_printing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab008_boolean.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab101_simple_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab11_printf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab13_Arithemetic_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab14_unary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab15_Modulus_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab16_Realtional_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab17_Logical_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab19_interview_concate_plus.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab1_switch_leap_year_month.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab20_Modulus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab21_Equals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab22_Interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab23_OR_AND_gate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab24_Interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab25_All_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab26_compound_assignment_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab27_new_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab28_instance_of_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab29_Interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab2_kids_grade_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab30_interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab31_interview_char_int.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab32_interview_Qna.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab33_interview_Short_char.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab35_Typecasting_widening_explicit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab37_long_short.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab38_Typecasting_Used.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab39_Ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab3_factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab40_Ternary_operator_p1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab41_Nested_ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab42_inc_dec_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab42_interview_max_Two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab43_increment_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab43_task_even_odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab44_Post_decrement_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab44_Post_increment_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab44_task_max_three_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab45_increment_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab46_post_inc_operator.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab47_inc_operator_advanced_interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab48_inc_operator_interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab49_inc_operator_interview_Qna.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab50_post_decrement_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab51_post_decrement_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab52_if_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab52_if_else_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab54_if_else_condition1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab55_if_else_scanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab56_interview_question.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab57_task_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab58_Switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab58_task_inc_operator.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab59_switch_without_break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab60_switch_interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab61_switch_automation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab63_interview_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab64_interview_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab65_interview_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab66_interview_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab68_JDK13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab69_interview_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab70_interview_switch_statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab71_for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab76_for_loop_no_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab77_for_loop_if_else_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab78_interview_question_without_updation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab80_for_loop_float_long.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab81_for_loop_decrement_updation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab82_for_loop_intilazation_outside.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab83_for_loop_greater_vs_equal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab84_for_loop_top_even_odd_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab85_for_loop_using_break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab86_for_loop_continue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab87_for_loop_even_using_continue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab88_switch_leap_year_month.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab88_while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab89_while_loop_var_name.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab90_while_loop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab91_while_loop_condition_true.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab92_while_loop_interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab93_while_loop_check.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab95_while_loop_guessing_game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab97_diff_while_dowhile_loop.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kisho/IdeaProjects/Java automation/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Helloworld.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab004_common_math.executor": "Run",
+    "Application.Lab005_common_math_exception.executor": "Run",
+    "Application.Lab006_num_printing.executor": "Run",
+    "Application.Lab008_boolean.executor": "Run",
+    "Application.Lab101_simple_method.executor": "Run",
+    "Application.Lab10_Grade_Calculator.executor": "Run",
+    "Application.Lab10_grade_calculator.executor": "Run",
+    "Application.Lab11_printf.executor": "Run",
+    "Application.Lab13_Arithemetic_operators.executor": "Run",
+    "Application.Lab14_unary_operator.executor": "Run",
+    "Application.Lab15_Modulus_operator.executor": "Run",
+    "Application.Lab16_Realtional_operator.executor": "Run",
+    "Application.Lab17_Logical_operator.executor": "Run",
+    "Application.Lab19_interview_concate_plus.executor": "Debug",
+    "Application.Lab1_switch_leap_year_month.executor": "Run",
+    "Application.Lab20_Modulus.executor": "Run",
+    "Application.Lab21_Equals.executor": "Run",
+    "Application.Lab22_Interview_Qna.executor": "Run",
+    "Application.Lab23_OR_AND_gate.executor": "Run",
+    "Application.Lab24_Interview_Qna.executor": "Run",
+    "Application.Lab25_All_operators.executor": "Run",
+    "Application.Lab26_compound_assignment_operator.executor": "Run",
+    "Application.Lab27_new_operator.executor": "Run",
+    "Application.Lab28_instance_of_operator.executor": "Run",
+    "Application.Lab29_Interview_Qna.executor": "Run",
+    "Application.Lab2_kids_grade_switch_statement.executor": "Run",
+    "Application.Lab30_interview_Qna.executor": "Run",
+    "Application.Lab31_interview_char_int.executor": "Run",
+    "Application.Lab32_interview_Qna.executor": "Debug",
+    "Application.Lab33_interview_Short_char.executor": "Run",
+    "Application.Lab35_Typecasting_widening_explicit.executor": "Run",
+    "Application.Lab37_long_short.executor": "Run",
+    "Application.Lab38_Typecasting_Used.executor": "Run",
+    "Application.Lab39_Ternary_operator.executor": "Run",
+    "Application.Lab3_factorial.executor": "Run",
+    "Application.Lab40_Ternary_operator_p1.executor": "Run",
+    "Application.Lab41_Nested_ternary_operator.executor": "Run",
+    "Application.Lab42_inc_dec_operator.executor": "Run",
+    "Application.Lab42_interview_max_Two_numbers.executor": "Run",
+    "Application.Lab43_increment_operator.executor": "Run",
+    "Application.Lab43_task_even_odd.executor": "Run",
+    "Application.Lab44_Post_decrement_operator.executor": "Run",
+    "Application.Lab44_Post_increment_operator.executor": "Run",
+    "Application.Lab44_task_max_three_numbers.executor": "Run",
+    "Application.Lab45_increment_operator.executor": "Run",
+    "Application.Lab46_post_inc_operator.executor": "Debug",
+    "Application.Lab47_inc_operator_advanced_interview_Qna.executor": "Run",
+    "Application.Lab48_inc_operator_interview_Qna.executor": "Run",
+    "Application.Lab49_inc_operator_interview_Qna.executor": "Run",
+    "Application.Lab4_count_vowels_consonants_string.executor": "Run",
+    "Application.Lab50_post_decrement_operator.executor": "Run",
+    "Application.Lab51_post_decrement_operator.executor": "Run",
+    "Application.Lab52_if_condition.executor": "Run",
+    "Application.Lab52_if_else_condition.executor": "Run",
+    "Application.Lab54_if_else_condition1.executor": "Run",
+    "Application.Lab55_if_else_scanner.executor": "Run",
+    "Application.Lab56_interview_question.executor": "Run",
+    "Application.Lab57_task_triangle.executor": "Run",
+    "Application.Lab58_Switch_statement.executor": "Run",
+    "Application.Lab58_task_inc_operator.executor": "Debug",
+    "Application.Lab59_switch_without_break.executor": "Run",
+    "Application.Lab5_prime_number.executor": "Run",
+    "Application.Lab60_switch_interview.executor": "Run",
+    "Application.Lab61_switch_automation.executor": "Run",
+    "Application.Lab63_interview_switch_statement.executor": "Run",
+    "Application.Lab64_interview_switch_statement.executor": "Run",
+    "Application.Lab65_interview_switch_statement.executor": "Run",
+    "Application.Lab66_interview_switch_statement.executor": "Run",
+    "Application.Lab68_JDK13.executor": "Run",
+    "Application.Lab69_interview_switch_statement.executor": "Run",
+    "Application.Lab6_fizz_buzz_test.executor": "Run",
+    "Application.Lab70_interview_switch_statement.executor": "Run",
+    "Application.Lab71_for_loop.executor": "Run",
+    "Application.Lab76_for_loop_no_condition.executor": "Run",
+    "Application.Lab77_for_loop_if_else_condition.executor": "Run",
+    "Application.Lab78_interview_question_without_updation.executor": "Run",
+    "Application.Lab7_palindrome_number.executor": "Run",
+    "Application.Lab80_for_loop_float_long.executor": "Run",
+    "Application.Lab81_for_loop_decrement_updation.executor": "Run",
+    "Application.Lab82_for_loop_intilazation_outside.executor": "Run",
+    "Application.Lab83_for_loop_greater_vs_equal.executor": "Run",
+    "Application.Lab84_for_loop_top_even_odd_numbers.executor": "Run",
+    "Application.Lab85_for_loop_using_break.executor": "Run",
+    "Application.Lab86_for_loop_continue.executor": "Run",
+    "Application.Lab87_for_loop_even_using_continue.executor": "Run",
+    "Application.Lab88_switch_leap_year_month.executor": "Run",
+    "Application.Lab88_while_loop.executor": "Run",
+    "Application.Lab89_while_loop_var_name.executor": "Run",
+    "Application.Lab8_Reverse_number_using_for_loop.executor": "Run",
+    "Application.Lab90_while_loop1.executor": "Run",
+    "Application.Lab91_while_loop_condition_true.executor": "Run",
+    "Application.Lab92_while_loop_interview.executor": "Run",
+    "Application.Lab93_while_loop_check.executor": "Run",
+    "Application.Lab95_while_loop_guessing_game.executor": "Run",
+    "Application.Lab97_diff_while_dowhile_loop.executor": "Run",
+    "Application.Lab9_fibonacci_series.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/kisho/IdeaProjects/Java automation/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "two.files.diff.last.used.folder": "C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.project.task1" />
@@ -161,13 +168,13 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab101_simple_method">
-    <configuration name="Lab101_simple_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task11_functions.Lab101_simple_method" />
+  <component name="RunManager" selected="Application.Lab10_Grade_Calculator">
+    <configuration name="Lab10_Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab10_Grade_Calculator" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task11_functions.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab92_while_loop_interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task9_while_loop.Lab92_while_loop_interview" />
+    <configuration name="Lab10_grade_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab10_grade_calculator" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task9_while_loop.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab93_while_loop_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task9_while_loop.Lab93_while_loop_check" />
+    <configuration name="Lab7_palindrome_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab7_palindrome_number" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task9_while_loop.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab95_while_loop_guessing_game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task9_while_loop.Lab95_while_loop_guessing_game" />
+    <configuration name="Lab8_Reverse_number_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab8_Reverse_number_using_for_loop" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task9_while_loop.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab97_diff_while_dowhile_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task10_Do_while_loop.Lab97_diff_while_dowhile_loop" />
+    <configuration name="Lab9_fibonacci_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab9_fibonacci_series" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task10_Do_while_loop.*" />
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,19 +236,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab101_simple_method" />
-      <item itemvalue="Application.Lab92_while_loop_interview" />
-      <item itemvalue="Application.Lab93_while_loop_check" />
-      <item itemvalue="Application.Lab95_while_loop_guessing_game" />
-      <item itemvalue="Application.Lab97_diff_while_dowhile_loop" />
+      <item itemvalue="Application.Lab10_Grade_Calculator" />
+      <item itemvalue="Application.Lab10_grade_calculator" />
+      <item itemvalue="Application.Lab7_palindrome_number" />
+      <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
+      <item itemvalue="Application.Lab9_fibonacci_series" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab101_simple_method" />
-        <item itemvalue="Application.Lab97_diff_while_dowhile_loop" />
-        <item itemvalue="Application.Lab95_while_loop_guessing_game" />
-        <item itemvalue="Application.Lab93_while_loop_check" />
-        <item itemvalue="Application.Lab92_while_loop_interview" />
+        <item itemvalue="Application.Lab10_Grade_Calculator" />
+        <item itemvalue="Application.Lab10_grade_calculator" />
+        <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
+        <item itemvalue="Application.Lab9_fibonacci_series" />
+        <item itemvalue="Application.Lab7_palindrome_number" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748250558190</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="25th may - While loop , DoWhile loop, Function(user defined as well)">
+      <option name="closed" value="true" />
+      <created>1748355418068</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748355418068</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,7 +389,8 @@
     <MESSAGE value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;src/com/project/task/com/project/task1_datatypes/Lab11_printf.java" />
     <MESSAGE value="21st may triangle task" />
     <MESSAGE value="24th may - switch case, for loop , coding challenges for switch statement , for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="24th may - switch case, for loop , coding challenges for switch statement , for loop" />
+    <MESSAGE value="25th may - While loop , DoWhile loop, Function(user defined as well)" />
+    <option name="LAST_COMMIT_MESSAGE" value="25th may - While loop , DoWhile loop, Function(user defined as well)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
