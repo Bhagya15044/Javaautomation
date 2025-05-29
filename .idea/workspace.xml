@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="25th may - While loop , DoWhile loop, Function(user defined as well)">
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="25th may - coding challenges">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Application.Lab16_Realtional_operator.executor": "Run",
     "Application.Lab17_Logical_operator.executor": "Run",
     "Application.Lab19_interview_concate_plus.executor": "Debug",
+    "Application.Lab1_Armstrong_Number.executor": "Run",
     "Application.Lab1_switch_leap_year_month.executor": "Run",
     "Application.Lab20_Modulus.executor": "Run",
     "Application.Lab21_Equals.executor": "Run",
@@ -153,7 +154,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
     "two.files.diff.last.used.folder": "C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml"
   }
 }]]></component>
@@ -168,7 +169,7 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab10_Grade_Calculator">
+  <component name="RunManager" selected="Application.Lab1_Armstrong_Number">
     <configuration name="Lab10_Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab10_Grade_Calculator" />
       <module name="Java automation" />
@@ -195,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab7_palindrome_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab7_palindrome_number" />
+    <configuration name="Lab1_Armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab1_Armstrong_Number" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -236,19 +237,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
+      <item itemvalue="Application.Lab1_Armstrong_Number" />
       <item itemvalue="Application.Lab10_Grade_Calculator" />
       <item itemvalue="Application.Lab10_grade_calculator" />
-      <item itemvalue="Application.Lab7_palindrome_number" />
       <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
       <item itemvalue="Application.Lab9_fibonacci_series" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab1_Armstrong_Number" />
+        <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
         <item itemvalue="Application.Lab10_Grade_Calculator" />
         <item itemvalue="Application.Lab10_grade_calculator" />
-        <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
         <item itemvalue="Application.Lab9_fibonacci_series" />
-        <item itemvalue="Application.Lab7_palindrome_number" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748355418068</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="25th may - coding challenges">
+      <option name="closed" value="true" />
+      <created>1748507380399</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748507380399</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +399,8 @@
     <MESSAGE value="21st may triangle task" />
     <MESSAGE value="24th may - switch case, for loop , coding challenges for switch statement , for loop" />
     <MESSAGE value="25th may - While loop , DoWhile loop, Function(user defined as well)" />
-    <option name="LAST_COMMIT_MESSAGE" value="25th may - While loop , DoWhile loop, Function(user defined as well)" />
+    <MESSAGE value="25th may - coding challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="25th may - coding challenges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
