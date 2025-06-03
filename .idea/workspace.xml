@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="25th may - coding challenges">
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="25th may - coding challenges(Armstrongnumber)">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -54,11 +56,31 @@
     "Application.Lab006_num_printing.executor": "Run",
     "Application.Lab008_boolean.executor": "Run",
     "Application.Lab101_simple_method.executor": "Run",
+    "Application.Lab108_String_immutable1.executor": "Run",
+    "Application.Lab109_String_functions.executor": "Run",
     "Application.Lab10_Grade_Calculator.executor": "Run",
     "Application.Lab10_grade_calculator.executor": "Run",
+    "Application.Lab110_String_interview.executor": "Run",
+    "Application.Lab111_interview_Qna.executor": "Run",
+    "Application.Lab112_string_functions1.executor": "Run",
+    "Application.Lab113_String_examples.executor": "Run",
+    "Application.Lab114_String_examples1.executor": "Run",
+    "Application.Lab115_String_example2.executor": "Run",
+    "Application.Lab116_String_function.executor": "Run",
+    "Application.Lab117_String_Builder_vs_buffer.executor": "Run",
+    "Application.Lab118_interview_question.executor": "Run",
+    "Application.Lab119_interview_question.executor": "Run",
     "Application.Lab11_printf.executor": "Run",
+    "Application.Lab11_reverse_string_without_inbuilt_function.executor": "Run",
+    "Application.Lab120_String_builder.executor": "Run",
+    "Application.Lab121_String_buffer.executor": "Run",
+    "Application.Lab122_interviewQNA_reverse_without_using_inbuilt_function.executor": "Run",
+    "Application.Lab12_reverse_string_using_inbuilt_function.executor": "Run",
     "Application.Lab13_Arithemetic_operators.executor": "Run",
+    "Application.Lab13_reverse_string_without_loop_without_inbuilt_function.executor": "Run",
+    "Application.Lab14_count_number_of_words_string.executor": "Run",
     "Application.Lab14_unary_operator.executor": "Run",
+    "Application.Lab15_First_letter_of_each_word.executor": "Run",
     "Application.Lab15_Modulus_operator.executor": "Run",
     "Application.Lab16_Realtional_operator.executor": "Run",
     "Application.Lab17_Logical_operator.executor": "Run",
@@ -169,9 +191,9 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab1_Armstrong_Number">
-    <configuration name="Lab10_Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab10_Grade_Calculator" />
+  <component name="RunManager" selected="Application.Lab15_First_letter_of_each_word">
+    <configuration name="Lab11_reverse_string_without_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab11_reverse_string_without_inbuilt_function" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -183,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab10_grade_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab10_grade_calculator" />
+    <configuration name="Lab12_reverse_string_using_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab12_reverse_string_using_inbuilt_function" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +218,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab1_Armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab1_Armstrong_Number" />
+    <configuration name="Lab13_reverse_string_without_loop_without_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab13_reverse_string_without_loop_without_inbuilt_function" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -209,8 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab8_Reverse_number_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab8_Reverse_number_using_for_loop" />
+    <configuration name="Lab14_count_number_of_words_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab14_count_number_of_words_string" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -222,8 +244,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab9_fibonacci_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab9_fibonacci_series" />
+    <configuration name="Lab15_First_letter_of_each_word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab15_First_letter_of_each_word" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -237,19 +259,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab1_Armstrong_Number" />
-      <item itemvalue="Application.Lab10_Grade_Calculator" />
-      <item itemvalue="Application.Lab10_grade_calculator" />
-      <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
-      <item itemvalue="Application.Lab9_fibonacci_series" />
+      <item itemvalue="Application.Lab11_reverse_string_without_inbuilt_function" />
+      <item itemvalue="Application.Lab12_reverse_string_using_inbuilt_function" />
+      <item itemvalue="Application.Lab13_reverse_string_without_loop_without_inbuilt_function" />
+      <item itemvalue="Application.Lab14_count_number_of_words_string" />
+      <item itemvalue="Application.Lab15_First_letter_of_each_word" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab1_Armstrong_Number" />
-        <item itemvalue="Application.Lab8_Reverse_number_using_for_loop" />
-        <item itemvalue="Application.Lab10_Grade_Calculator" />
-        <item itemvalue="Application.Lab10_grade_calculator" />
-        <item itemvalue="Application.Lab9_fibonacci_series" />
+        <item itemvalue="Application.Lab15_First_letter_of_each_word" />
+        <item itemvalue="Application.Lab14_count_number_of_words_string" />
+        <item itemvalue="Application.Lab13_reverse_string_without_loop_without_inbuilt_function" />
+        <item itemvalue="Application.Lab12_reverse_string_using_inbuilt_function" />
+        <item itemvalue="Application.Lab11_reverse_string_without_inbuilt_function" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +395,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748507380399</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="25th may - coding challenges(Armstrongnumber)">
+      <option name="closed" value="true" />
+      <created>1748520084342</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748520084342</updated>
+    </task>
+    <task id="LOCAL-00016" summary="25th may - coding challenges(Armstrongnumber)">
+      <option name="closed" value="true" />
+      <created>1748520097206</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1748520097206</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,7 +438,8 @@
     <MESSAGE value="24th may - switch case, for loop , coding challenges for switch statement , for loop" />
     <MESSAGE value="25th may - While loop , DoWhile loop, Function(user defined as well)" />
     <MESSAGE value="25th may - coding challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="25th may - coding challenges" />
+    <MESSAGE value="25th may - coding challenges(Armstrongnumber)" />
+    <option name="LAST_COMMIT_MESSAGE" value="25th may - coding challenges(Armstrongnumber)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
