@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="31st may -string, string-builder, string-buffer, coding challenges(string topics)">
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="1st june - arrays, code challenge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,10 +98,14 @@
     "Application.Lab16_Realtional_operator.executor": "Run",
     "Application.Lab16_odd_even_number_in_array.executor": "Run",
     "Application.Lab17_Logical_operator.executor": "Run",
+    "Application.Lab17_elements_array_reverse_order.executor": "Run",
+    "Application.Lab18_print_largest_element_in_array.executor": "Run",
     "Application.Lab19_interview_concate_plus.executor": "Debug",
+    "Application.Lab19_smallest_element_in_array.executor": "Run",
     "Application.Lab1_Armstrong_Number.executor": "Run",
     "Application.Lab1_switch_leap_year_month.executor": "Run",
     "Application.Lab20_Modulus.executor": "Run",
+    "Application.Lab20_sum_of_all_elements_array.executor": "Run",
     "Application.Lab21_Equals.executor": "Run",
     "Application.Lab22_Interview_Qna.executor": "Run",
     "Application.Lab23_OR_AND_gate.executor": "Run",
@@ -205,60 +209,7 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab16_odd_even_number_in_array">
-    <configuration name="Lab134_array_CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab134_array_CLI" />
-      <module name="Java automation" />
-      <option name="PROGRAM_PARAMETERS" value="12,34,56,67,22,45,89,54" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.task14_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab135_highest_num_negative_value_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab135_highest_num_negative_value_check" />
-      <module name="Java automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.task14_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab139_arrays_iterate_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab139_arrays_iterate_for_loop" />
-      <module name="Java automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.task14_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab140_right_angle_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab140_right_angle_triangle" />
-      <module name="Java automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.task14_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab20_sum_of_all_elements_array">
     <configuration name="Lab16_odd_even_number_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab16_odd_even_number_in_array" />
       <module name="Java automation" />
@@ -272,21 +223,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab17_elements_array_reverse_order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab17_elements_array_reverse_order" />
+      <module name="Java automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab18_print_largest_element_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab18_print_largest_element_in_array" />
+      <module name="Java automation" />
+      <option name="PROGRAM_PARAMETERS" value="-55" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab19_smallest_element_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab19_smallest_element_in_array" />
+      <module name="Java automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab20_sum_of_all_elements_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab20_sum_of_all_elements_array" />
+      <module name="Java automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab140_right_angle_triangle" />
+      <item itemvalue="Application.Lab19_smallest_element_in_array" />
+      <item itemvalue="Application.Lab20_sum_of_all_elements_array" />
       <item itemvalue="Application.Lab16_odd_even_number_in_array" />
-      <item itemvalue="Application.Lab135_highest_num_negative_value_check" />
-      <item itemvalue="Application.Lab139_arrays_iterate_for_loop" />
-      <item itemvalue="Application.Lab134_array_CLI" />
+      <item itemvalue="Application.Lab17_elements_array_reverse_order" />
+      <item itemvalue="Application.Lab18_print_largest_element_in_array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab20_sum_of_all_elements_array" />
+        <item itemvalue="Application.Lab19_smallest_element_in_array" />
+        <item itemvalue="Application.Lab18_print_largest_element_in_array" />
+        <item itemvalue="Application.Lab17_elements_array_reverse_order" />
         <item itemvalue="Application.Lab16_odd_even_number_in_array" />
-        <item itemvalue="Application.Lab140_right_angle_triangle" />
-        <item itemvalue="Application.Lab139_arrays_iterate_for_loop" />
-        <item itemvalue="Application.Lab135_highest_num_negative_value_check" />
-        <item itemvalue="Application.Lab134_array_CLI" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748950503530</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1st june - arrays, code challenge">
+      <option name="closed" value="true" />
+      <created>1749189309138</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1749189309138</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +483,8 @@
     <MESSAGE value="25th may - coding challenges" />
     <MESSAGE value="25th may - coding challenges(Armstrongnumber)" />
     <MESSAGE value="31st may -string, string-builder, string-buffer, coding challenges(string topics)" />
-    <option name="LAST_COMMIT_MESSAGE" value="31st may -string, string-builder, string-buffer, coding challenges(string topics)" />
+    <MESSAGE value="1st june - arrays, code challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st june - arrays, code challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
