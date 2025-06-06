@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="25th may - coding challenges(Armstrongnumber)">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="31st may -string, string-builder, string-buffer, coding challenges(string topics)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,14 +74,29 @@
     "Application.Lab120_String_builder.executor": "Run",
     "Application.Lab121_String_buffer.executor": "Run",
     "Application.Lab122_interviewQNA_reverse_without_using_inbuilt_function.executor": "Run",
+    "Application.Lab123_Array.executor": "Run",
+    "Application.Lab125_arrays_part.executor": "Run",
+    "Application.Lab126_arrays_for_loop.executor": "Run",
+    "Application.Lab127_max_value_array.executor": "Run",
+    "Application.Lab128_min_value_array.executor": "Run",
+    "Application.Lab129_user_input_array.executor": "Run",
     "Application.Lab12_reverse_string_using_inbuilt_function.executor": "Run",
+    "Application.Lab130_reverse_array.executor": "Run",
+    "Application.Lab131_Sum_of_arrays.executor": "Run",
+    "Application.Lab132_2nd_highest_number.executor": "Run",
+    "Application.Lab133_2nd_highest_number_without_inbuilt_function.executor": "Run",
+    "Application.Lab134_array_CLI.executor": "Run",
+    "Application.Lab135_highest_num_negative_value_check.executor": "Run",
+    "Application.Lab139_arrays_iterate_for_loop.executor": "Run",
     "Application.Lab13_Arithemetic_operators.executor": "Run",
     "Application.Lab13_reverse_string_without_loop_without_inbuilt_function.executor": "Run",
+    "Application.Lab140_right_angle_triangle.executor": "Run",
     "Application.Lab14_count_number_of_words_string.executor": "Run",
     "Application.Lab14_unary_operator.executor": "Run",
     "Application.Lab15_First_letter_of_each_word.executor": "Run",
     "Application.Lab15_Modulus_operator.executor": "Run",
     "Application.Lab16_Realtional_operator.executor": "Run",
+    "Application.Lab16_odd_even_number_in_array.executor": "Run",
     "Application.Lab17_Logical_operator.executor": "Run",
     "Application.Lab19_interview_concate_plus.executor": "Debug",
     "Application.Lab1_Armstrong_Number.executor": "Run",
@@ -191,13 +205,14 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab15_First_letter_of_each_word">
-    <configuration name="Lab11_reverse_string_without_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab11_reverse_string_without_inbuilt_function" />
+  <component name="RunManager" selected="Application.Lab16_odd_even_number_in_array">
+    <configuration name="Lab134_array_CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab134_array_CLI" />
       <module name="Java automation" />
+      <option name="PROGRAM_PARAMETERS" value="12,34,56,67,22,45,89,54" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="PATTERN" value="com.project.task14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab12_reverse_string_using_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab12_reverse_string_using_inbuilt_function" />
+    <configuration name="Lab135_highest_num_negative_value_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab135_highest_num_negative_value_check" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="PATTERN" value="com.project.task14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab13_reverse_string_without_loop_without_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab13_reverse_string_without_loop_without_inbuilt_function" />
+    <configuration name="Lab139_arrays_iterate_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab139_arrays_iterate_for_loop" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="PATTERN" value="com.project.task14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab14_count_number_of_words_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab14_count_number_of_words_string" />
+    <configuration name="Lab140_right_angle_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task14_Arrays.Lab140_right_angle_triangle" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="PATTERN" value="com.project.task14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,8 +259,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab15_First_letter_of_each_word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab15_First_letter_of_each_word" />
+    <configuration name="Lab16_odd_even_number_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab16_odd_even_number_in_array" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
@@ -259,19 +274,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab11_reverse_string_without_inbuilt_function" />
-      <item itemvalue="Application.Lab12_reverse_string_using_inbuilt_function" />
-      <item itemvalue="Application.Lab13_reverse_string_without_loop_without_inbuilt_function" />
-      <item itemvalue="Application.Lab14_count_number_of_words_string" />
-      <item itemvalue="Application.Lab15_First_letter_of_each_word" />
+      <item itemvalue="Application.Lab140_right_angle_triangle" />
+      <item itemvalue="Application.Lab16_odd_even_number_in_array" />
+      <item itemvalue="Application.Lab135_highest_num_negative_value_check" />
+      <item itemvalue="Application.Lab139_arrays_iterate_for_loop" />
+      <item itemvalue="Application.Lab134_array_CLI" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab15_First_letter_of_each_word" />
-        <item itemvalue="Application.Lab14_count_number_of_words_string" />
-        <item itemvalue="Application.Lab13_reverse_string_without_loop_without_inbuilt_function" />
-        <item itemvalue="Application.Lab12_reverse_string_using_inbuilt_function" />
-        <item itemvalue="Application.Lab11_reverse_string_without_inbuilt_function" />
+        <item itemvalue="Application.Lab16_odd_even_number_in_array" />
+        <item itemvalue="Application.Lab140_right_angle_triangle" />
+        <item itemvalue="Application.Lab139_arrays_iterate_for_loop" />
+        <item itemvalue="Application.Lab135_highest_num_negative_value_check" />
+        <item itemvalue="Application.Lab134_array_CLI" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +426,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748520097206</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="31st may -string, string-builder, string-buffer, coding challenges(string topics)">
+      <option name="closed" value="true" />
+      <created>1748950482792</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1748950482792</updated>
+    </task>
+    <task id="LOCAL-00018" summary="31st may -string, string-builder, string-buffer, coding challenges(string topics)">
+      <option name="closed" value="true" />
+      <created>1748950503530</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748950503530</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +470,8 @@
     <MESSAGE value="25th may - While loop , DoWhile loop, Function(user defined as well)" />
     <MESSAGE value="25th may - coding challenges" />
     <MESSAGE value="25th may - coding challenges(Armstrongnumber)" />
-    <option name="LAST_COMMIT_MESSAGE" value="25th may - coding challenges(Armstrongnumber)" />
+    <MESSAGE value="31st may -string, string-builder, string-buffer, coding challenges(string topics)" />
+    <option name="LAST_COMMIT_MESSAGE" value="31st may -string, string-builder, string-buffer, coding challenges(string topics)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
