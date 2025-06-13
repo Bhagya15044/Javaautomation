@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="1st june - arrays code challenge">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="1st june - arrays code challenge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,6 +202,13 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.appearance",
     "two.files.diff.last.used.folder": "C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -217,20 +222,7 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab179_main_method">
-    <configuration name="Lab152_Main_car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task16_oops_constructors.Lab152_Main_car" />
-      <module name="Java automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.task16_oops_constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab32_all_00PS_concepts_in_one">
     <configuration name="Lab154_Main_login_page" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.task16_oops_constructors.Lab154_Main_login_page" />
       <module name="Java automation" />
@@ -283,9 +275,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab32_all_00PS_concepts_in_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab32_all_00PS_concepts_in_one" />
+      <module name="Java automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab152_Main_car" />
+      <item itemvalue="Application.Lab32_all_00PS_concepts_in_one" />
       <item itemvalue="Application.Lab154_Main_login_page" />
       <item itemvalue="Application.Lab160_Main_method" />
       <item itemvalue="Application.Lab165_main_method" />
@@ -293,11 +298,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab32_all_00PS_concepts_in_one" />
         <item itemvalue="Application.Lab179_main_method" />
         <item itemvalue="Application.Lab165_main_method" />
         <item itemvalue="Application.Lab160_Main_method" />
         <item itemvalue="Application.Lab154_Main_login_page" />
-        <item itemvalue="Application.Lab152_Main_car" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +474,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749192509297</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="8th june - super keyword, encapsulation, polymorphism,abstraction, coding challenge lab exercise">
+      <option name="closed" value="true" />
+      <created>1749797598177</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749797598177</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +513,8 @@
     <MESSAGE value="31st may -string, string-builder, string-buffer, coding challenges(string topics)" />
     <MESSAGE value="1st june - arrays, code challenge" />
     <MESSAGE value="1st june - arrays code challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st june - arrays code challenge" />
+    <MESSAGE value="8th june - super keyword, encapsulation, polymorphism,abstraction, coding challenge lab exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="8th june - super keyword, encapsulation, polymorphism,abstraction, coding challenge lab exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
