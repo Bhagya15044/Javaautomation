@@ -1,6 +1,6 @@
 package com.project.live_test2;
 
-public class Abstract_shape_implementation
+public class Test7_Abstract_shape_implementation
 {
     public static void main(String[] args)
     {
