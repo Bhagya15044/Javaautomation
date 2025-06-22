@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="1st june - arrays code challenge" />
+    <list default="true" id="c1abd655-5f1c-47cb-9e79-93021af0fea1" name="Changes" comment="1st june - arrays code challenge">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Exception" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -46,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstract_shape_implementation.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab004_common_math.executor": "Run",
@@ -106,13 +111,22 @@
     "Application.Lab17_Logical_operator.executor": "Run",
     "Application.Lab17_elements_array_reverse_order.executor": "Run",
     "Application.Lab18_print_largest_element_in_array.executor": "Run",
+    "Application.Lab194_abstract_class.executor": "Run",
     "Application.Lab19_interview_concate_plus.executor": "Debug",
     "Application.Lab19_smallest_element_in_array.executor": "Run",
     "Application.Lab1_Armstrong_Number.executor": "Run",
     "Application.Lab1_switch_leap_year_month.executor": "Run",
+    "Application.Lab200_interview_Qna.executor": "Run",
+    "Application.Lab200_static_keyword.executor": "Run",
+    "Application.Lab202_static_example.executor": "Run",
+    "Application.Lab203_static_block.executor": "Run",
     "Application.Lab20_Modulus.executor": "Run",
     "Application.Lab20_sum_of_all_elements_array.executor": "Run",
+    "Application.Lab215_exception.executor": "Run",
+    "Application.Lab217_exception_example1.executor": "Run",
     "Application.Lab21_Equals.executor": "Run",
+    "Application.Lab220_exception_example4.executor": "Run",
+    "Application.Lab222_Arthimetic_Exception_example2.executor": "Run",
     "Application.Lab22_Interview_Qna.executor": "Run",
     "Application.Lab23_OR_AND_gate.executor": "Run",
     "Application.Lab24_Interview_Qna.executor": "Run",
@@ -124,7 +138,9 @@
     "Application.Lab2_kids_grade_switch_statement.executor": "Run",
     "Application.Lab30_interview_Qna.executor": "Run",
     "Application.Lab31_interview_char_int.executor": "Run",
+    "Application.Lab32_all_00PS_concepts_in_one.executor": "Run",
     "Application.Lab32_interview_Qna.executor": "Debug",
+    "Application.Lab33_Student_class_constructor.executor": "Run",
     "Application.Lab33_interview_Short_char.executor": "Run",
     "Application.Lab35_Typecasting_widening_explicit.executor": "Run",
     "Application.Lab37_long_short.executor": "Run",
@@ -136,11 +152,15 @@
     "Application.Lab42_inc_dec_operator.executor": "Run",
     "Application.Lab42_interview_max_Two_numbers.executor": "Run",
     "Application.Lab43_increment_operator.executor": "Run",
+    "Application.Lab43_super_keyword.executor": "Run",
     "Application.Lab43_task_even_odd.executor": "Run",
     "Application.Lab44_Post_decrement_operator.executor": "Run",
     "Application.Lab44_Post_increment_operator.executor": "Run",
+    "Application.Lab44_abstract_animal.executor": "Run",
     "Application.Lab44_task_max_three_numbers.executor": "Run",
+    "Application.Lab45_bank_calculation.executor": "Run",
     "Application.Lab45_increment_operator.executor": "Run",
+    "Application.Lab46_abstract_class_with_constructor.executor": "Run",
     "Application.Lab46_post_inc_operator.executor": "Debug",
     "Application.Lab47_inc_operator_advanced_interview_Qna.executor": "Run",
     "Application.Lab48_inc_operator_interview_Qna.executor": "Run",
@@ -153,6 +173,7 @@
     "Application.Lab54_if_else_condition1.executor": "Run",
     "Application.Lab55_if_else_scanner.executor": "Run",
     "Application.Lab56_interview_question.executor": "Run",
+    "Application.Lab56_multiple_catch_blocks.executor": "Run",
     "Application.Lab57_task_triangle.executor": "Run",
     "Application.Lab58_Switch_statement.executor": "Run",
     "Application.Lab58_task_inc_operator.executor": "Debug",
@@ -192,6 +213,20 @@
     "Application.Lab95_while_loop_guessing_game.executor": "Run",
     "Application.Lab97_diff_while_dowhile_loop.executor": "Run",
     "Application.Lab9_fibonacci_series.executor": "Run",
+    "Application.Test16_Largest_number.executor": "Run",
+    "Application.Test1_intilization_declaration.executor": "Run",
+    "Application.Test1_person_class_implementation.executor": "Run",
+    "Application.Test2_Arithemetic_Assignment_operator.executor": "Run",
+    "Application.Test2_Student_Management_System.executor": "Run",
+    "Application.Test3_Comparision_logical_operator.executor": "Run",
+    "Application.Test3_employee_encapsulation.executor": "Run",
+    "Application.Test4_Animal_sound_polymorphism.executor": "Run",
+    "Application.Test4_precincrement_postincrement.executor": "Run",
+    "Application.Test5_Number_classification.executor": "Run",
+    "Application.Test5_Vehicle_inheritance_hierarchy.executor": "Run",
+    "Application.Test6_Employee_salary_calculation.executor": "Run",
+    "Application.Test7_Leap_year.executor": "Run",
+    "Application.Test8_Drawable_interface_implementation.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -200,7 +235,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
     "two.files.diff.last.used.folder": "C:/Users/kisho/IdeaProjects/Java automation/Java automation.iml"
   },
   "keyToStringList": {
@@ -222,13 +257,13 @@
       <recent name="com.project.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab32_all_00PS_concepts_in_one">
-    <configuration name="Lab154_Main_login_page" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task16_oops_constructors.Lab154_Main_login_page" />
+  <component name="RunManager" selected="Application.Test8_Drawable_interface_implementation">
+    <configuration name="Abstract_shape_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.live_test2.Abstract_shape_implementation" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task16_oops_constructors.*" />
+          <option name="PATTERN" value="com.project.live_test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab160_Main_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task17_single_inheritance.Lab160_Main_method" />
+    <configuration name="Test4_Animal_sound_polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.live_test2.Test4_Animal_sound_polymorphism" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task17_single_inheritance.*" />
+          <option name="PATTERN" value="com.project.live_test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab165_main_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task18_real_example_single_inheritance.Lab165_main_method" />
+    <configuration name="Test5_Vehicle_inheritance_hierarchy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.live_test2.Test5_Vehicle_inheritance_hierarchy" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task18_real_example_single_inheritance.*" />
+          <option name="PATTERN" value="com.project.live_test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab179_main_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.task21_hierarchial_inheritance.Lab179_main_method" />
+    <configuration name="Test6_Employee_salary_calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.live_test2.Test6_Employee_salary_calculation" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.task21_hierarchial_inheritance.*" />
+          <option name="PATTERN" value="com.project.live_test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab32_all_00PS_concepts_in_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.coding_challenge_tasks.Lab32_all_00PS_concepts_in_one" />
+    <configuration name="Test8_Drawable_interface_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.live_test2.Test8_Drawable_interface_implementation" />
       <module name="Java automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.coding_challenge_tasks.*" />
+          <option name="PATTERN" value="com.project.live_test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,19 +325,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab005_common_math_exception" />
-      <item itemvalue="Application.Lab32_all_00PS_concepts_in_one" />
-      <item itemvalue="Application.Lab154_Main_login_page" />
-      <item itemvalue="Application.Lab160_Main_method" />
-      <item itemvalue="Application.Lab165_main_method" />
-      <item itemvalue="Application.Lab179_main_method" />
+      <item itemvalue="Application.Abstract_shape_implementation" />
+      <item itemvalue="Application.Test4_Animal_sound_polymorphism" />
+      <item itemvalue="Application.Test5_Vehicle_inheritance_hierarchy" />
+      <item itemvalue="Application.Test6_Employee_salary_calculation" />
+      <item itemvalue="Application.Test8_Drawable_interface_implementation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab32_all_00PS_concepts_in_one" />
-        <item itemvalue="Application.Lab179_main_method" />
-        <item itemvalue="Application.Lab165_main_method" />
-        <item itemvalue="Application.Lab160_Main_method" />
-        <item itemvalue="Application.Lab154_Main_login_page" />
+        <item itemvalue="Application.Test8_Drawable_interface_implementation" />
+        <item itemvalue="Application.Abstract_shape_implementation" />
+        <item itemvalue="Application.Test6_Employee_salary_calculation" />
+        <item itemvalue="Application.Test5_Vehicle_inheritance_hierarchy" />
+        <item itemvalue="Application.Test4_Animal_sound_polymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +517,95 @@
       <option name="project" value="LOCAL" />
       <updated>1749797598177</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="8th june - Lab32_all_00PS_concepts_in_one.java">
+      <option name="closed" value="true" />
+      <created>1749811844431</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1749811844431</updated>
+    </task>
+    <task id="LOCAL-00023" summary="8th june - Lab32_all_00PS_concepts_in_one.java">
+      <option name="closed" value="true" />
+      <created>1749811866255</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1749811866255</updated>
+    </task>
+    <task id="LOCAL-00024" summary="14th june - abstraction,static keyword, enum keyword">
+      <option name="closed" value="true" />
+      <created>1750160533532</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1750160533533</updated>
+    </task>
+    <task id="LOCAL-00025" summary="15th june - wrapper class, exception handling">
+      <option name="closed" value="true" />
+      <created>1750245670086</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1750245670086</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task 9th June 2025 | Constructor Programs (coding challenges)">
+      <option name="closed" value="true" />
+      <created>1750325440272</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1750325440272</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task 12th June 2025 |&#10;Inheritance Programs (coding challenges)">
+      <option name="closed" value="true" />
+      <created>1750330507404</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1750330507404</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task 14th June 2025 | Abstract &amp; INTERFACE (coding challenges)">
+      <option name="closed" value="true" />
+      <created>1750340198013</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1750340198013</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task 15th June 2025 exception handling, wrapper class (coding challenges)">
+      <option name="closed" value="true" />
+      <created>1750345397398</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1750345397398</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task21 - live test">
+      <option name="closed" value="true" />
+      <created>1750489103127</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1750489103127</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Task22 - live test">
+      <option name="closed" value="true" />
+      <created>1750574723595</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1750574723595</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Task22 - live test">
+      <option name="closed" value="true" />
+      <created>1750575361955</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1750575361955</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10 May 2025 - Lab session of keywords identifiers concepts , exception,naming conventions($,_), case-sensitive etc.." />
     <MESSAGE value="11 May 2025 - printing a 5th table using printf statement , without using loops" />
     <MESSAGE value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values" />
     <MESSAGE value="11 May 2025 - interview qna, variable declaration, datatypes, boolean values,byte" />
@@ -514,7 +636,16 @@
     <MESSAGE value="1st june - arrays, code challenge" />
     <MESSAGE value="1st june - arrays code challenge" />
     <MESSAGE value="8th june - super keyword, encapsulation, polymorphism,abstraction, coding challenge lab exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="8th june - super keyword, encapsulation, polymorphism,abstraction, coding challenge lab exercise" />
+    <MESSAGE value="8th june - Lab32_all_00PS_concepts_in_one.java" />
+    <MESSAGE value="14th june - abstraction,static keyword, enum keyword" />
+    <MESSAGE value="15th june - wrapper class, exception handling" />
+    <MESSAGE value="Task 9th June 2025 | Constructor Programs (coding challenges)" />
+    <MESSAGE value="Task 12th June 2025 |&#10;Inheritance Programs (coding challenges)" />
+    <MESSAGE value="Task 14th June 2025 | Abstract &amp; INTERFACE (coding challenges)" />
+    <MESSAGE value="Task 15th June 2025 exception handling, wrapper class (coding challenges)" />
+    <MESSAGE value="Task21 - live test" />
+    <MESSAGE value="Task22 - live test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task22 - live test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
