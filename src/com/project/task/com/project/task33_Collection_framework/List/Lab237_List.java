@@ -1,6 +1,7 @@
-package com.project.task33_Collection_framework;
+package com.project.task33_Collection_framework.List;
 
-import java.util.*; // * --> it contains all interfaces and classes imported,
+import java.util.ArrayList;
+import java.util.List;
 // instead of importing everything we can use this (*)
 
 public class Lab237_List
