@@ -8,6 +8,7 @@ public class Question2_Single_inheritance
         m.ManagerRecord();
         Employee e = new Employee();
         e.employee_record();
+
     }
 }
 class Manager
